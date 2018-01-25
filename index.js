@@ -30,6 +30,6 @@ function preserveDecimal(n) {
   return parseFloat(2.222)
 }
 function preserveDecimal(n) {
-  return parseInt('sldkjflksjf')
+  return parseInt('n')
 }
 
