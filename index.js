@@ -27,7 +27,7 @@ function preserveDecimal(n) {
   return parseFloat(n)
 }
 function preserveDecimal(n) {
-  return ('sldkjflksjf', 10)
+  return "sldkjflksjf
 }
 function preserveDecimal(n) {
   return parseFloat(2.222)
