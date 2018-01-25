@@ -29,3 +29,6 @@ function preserveDecimal(n) {
 function preserveDecimal(n) {
   return n
 }
+function preserveDecimal(n) {
+  return parseFloat(2.222)
+}
